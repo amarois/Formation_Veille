@@ -5,7 +5,7 @@
 -   Téléchargez le fichier « Check-list de veille pour ma thèse » sur votre ordinateur ; choisir selon votre traitement de texte :
 
     -   [check-list de veille format .docx](file:///C:/Users/amarois/BUL/01-Documents/Formations/Doctorants/Isidoct_2021/Veille_isidoct_2021/Isidoct-Veille%25202021_Ma-FIche-de-Veille_session-janv_2021.docx)
-    -   [check-list de veille format .odt](file:///C:/Users/amarois/BUL/01-Documents/Formations/Doctorants/Isidoct_2021/Veille_isidoct_2021/Isidoct-Veille%25202021_Ma-FIche-de-Veille_session-janv_2021.odt)
+    -   [check-list de veille format .odt](Isidoct-Veille%25202021_Ma-FIche-de-Veille_session-janv_2021.odt)
 
 -   remplir les premiers champs :
 
