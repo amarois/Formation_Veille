@@ -4,8 +4,8 @@
 
 -   Téléchargez le fichier « Check-list de veille pour ma thèse » sur votre ordinateur ; choisir selon votre traitement de texte :
 
-    -   [check-list de veille format .docx](Isidoct-Veille_202021_Ma-FIche-de-Veille_session-janv_2021.docx)
-    -   [check-list de veille format .odt](Isidoct-Veille_202021_Ma-FIche-de-Veille_session-janv_2021.odt)
+    -   [check-list de veille format .docx](https://github.com/amarois/Formation_Veille/blob/main/Isidoct-Veille_2021_Ma-FIche-de-Veille_session-janv_2021.docx)
+    -   [check-list de veille format .odt](https://github.com/amarois/Formation_Veille/blob/main/Isidoct-Veille_2021_Ma-FIche-de-Veille_session-janv_2021.odt)
 
 -   remplir les premiers champs :
 
@@ -33,4 +33,4 @@ Choisissez un agrégateur de flux parmi ceux évoqués durant la séance (ou un 
 -   *en ligne, très complet* : [Feedly](https://feedly.com/), [TheOldReader](https://theoldreader.com/), [Inoreader](https://www.inoreader.com/language/french)
 -   *en ligne, tout intégré* : [N](https://www.netvibes.com/fr)[etvibes](https://www.netvibes.com/fr), [S](https://www.scoop.it/)[coop-it](https://www.scoop.it/)
 
-Téléchargez le fichier [Veille\_isidoct2021\_exercice-integration\_flux-RSS-tableau-eleves](Veille_isidoct2021_exercice-integration_flux-RSS-tableau-eleves.pdf), puis essayez d'ajouter quelques flux proposés\...ou -- mieux -- ceux, équivalents, utiles pour *votre *veille 
+Téléchargez le fichier [Veille\_isidoct2021\_exercice-integration\_flux-RSS-tableau-eleves](https://github.com/amarois/Formation_Veille/blob/main/Veille_isidoct2021_exercice-integration_flux-RSS-tableau-eleves.pdf), puis essayez d'ajouter quelques flux proposés\...ou -- mieux -- ceux, équivalents, utiles pour *votre *veille 
