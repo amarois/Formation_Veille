@@ -4,8 +4,8 @@
 
 -   Téléchargez le fichier « Check-list de veille pour ma thèse » sur votre ordinateur ; choisir selon votre traitement de texte :
 
-    -   [check-list de veille format .docx](https://github.com/amarois/Formation_Veille/blob/main/Isidoct-Veille_2022_Ma-FIche-de-Veille_session-janv_2022.docx)
-    -   [check-list de veille format .odt](https://github.com/amarois/Formation_Veille/blob/main/Isidoct-Veille_2022_Ma-FIche-de-Veille_session-janv_2022.odt)
+    -   [check-list de veille format .docx](https://github.com/amarois/Formation_Veille/blob/main/Isidoct-Veille_2022_Ma-FIche-de-Veille_session-mars_2022.docx)
+    -   [check-list de veille format .odt](https://github.com/amarois/Formation_Veille/blob/main/Isidoct-Veille_2022_Ma-FIche-de-Veille_session-mars_2022.odt)
 
 -   remplir les premiers champs :
 
