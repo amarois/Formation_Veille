@@ -33,4 +33,4 @@ Choisissez un agrégateur de flux parmi ceux évoqués durant la séance (ou un 
 -   *en ligne, très complet* : [Feedly](https://feedly.com/), [TheOldReader](https://theoldreader.com/), [Inoreader](https://www.inoreader.com/language/french)
 -   *en ligne, tout intégré* : [N](https://www.netvibes.com/fr)[etvibes](https://www.netvibes.com/fr), [S](https://www.scoop.it/)[coop-it](https://www.scoop.it/)
 
-Téléchargez le fichier [Veille\_isidoct2021\_exercice-integration\_flux-RSS-tableau-eleves](https://github.com/amarois/Formation_Veille/blob/main/Veille_isidoct2022_exercice-integration_flux-RSS-tableau-eleves.pdf), puis essayez d'ajouter quelques flux proposés\...ou -- mieux -- ceux, équivalents, utiles pour *votre *veille 
+Téléchargez le fichier [Veille\_isidoct2022\_exercice-integration\_flux-RSS-tableau-eleves](https://github.com/amarois/Formation_Veille/blob/main/Veille_isidoct2022_exercice-integration_flux-RSS-tableau-eleves.pdf), puis essayez d'ajouter quelques flux proposés\...ou -- mieux -- ceux, équivalents, utiles pour *votre *veille 
